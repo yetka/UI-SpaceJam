@@ -1,0 +1,74 @@
+body {
+  background-image: url(background-stars.png);
+  color: white;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.container {
+  position: sticky;
+  bottom: 10px;
+  left: 10px;
+  width: 900px;
+}
+
+
+p {
+  background-color: blue;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+}
+
+.first-row {
+  padding-left: 80px
+}
+
+.second-row {
+
+} 
+
+#lineup {
+  position: static;
+  left: 50px;
+  bottom: 110px;
+}
+
+#juniorJam {
+  position: static;
+  right: 70px;
+  bottom: 45px;
+}
+
+#station {
+  position: static;
+  left: 60px;
+  bottom: 70px;
+}
+
+.third-row {
+  
+}
+
+#stellarSouvenirs {
+  position: static;
+  left: 50px;
+  bottom: 60px;
+}
+
+#siteMap {
+  position: static;
+  left: 50px;
+  bottom: 15px;
+}
+
+#behindTheJam {
+  position: static;
+  left: 95px;
+}
+
+#store {
+  position: static;
+  left: 90px;
+  bottom: 70px;
+}
